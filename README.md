@@ -55,8 +55,8 @@ Ces données sont chargées par `utils.load_saheart()` / `utils.saheart_xy()` et
 Il faut Python 3.10 ou une version plus récente.
 
 ```bash
-git clone https://github.com/Otodji/apprentissage-supervise-m2.git
-cd apprentissage-supervise-m2
+git clone https://github.com/Otodji/TP_Machine_Learning.git
+cd TP_Machine_Learning
 
 python -m venv .venv
 # Windows :
